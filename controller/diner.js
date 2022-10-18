@@ -6,5 +6,7 @@ import db from '../config.js'
 
 const dinerController =
 {
+    getTypes: async (req, res) => {
 
+    }
 }
